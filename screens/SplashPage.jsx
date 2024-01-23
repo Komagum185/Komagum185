@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     marginBottom: 20,
     color: '#FFFFFF',
-    fontWeight: '500'
+    fontWeight: '600' 
   },
   progressBar: {
     marginTop: 20,
